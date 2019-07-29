@@ -1,5 +1,5 @@
 # Intern2019basicHTML
--Intern 2019 Basic HTML
+- Làm giao diện theo wireframe
 
 ## Tiêu đề bài tập
 **Frontend 1.1: Basic HTML.**
