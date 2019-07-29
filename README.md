@@ -15,8 +15,8 @@
 
 ## Kiến thức nắm được
 - Ôn tập lại các kiến thức cơ bản về html, css và github/githubPage 
-## Library using
-- [FontAwesome](https://fontawesome.com/)
+## Todo
 
 ## Credit
-- Sublime Text 3
+- [Sublime text 3](https://www.sublimetext.com/3)
+- [FontAwesome](https://fontawesome.com/)
