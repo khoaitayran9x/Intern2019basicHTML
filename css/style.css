@@ -24,7 +24,6 @@ body a{
 	text-align: center;
 	border-left: 1px solid #EC6058;
 	border-right: 1px solid #EC6058;
-
 	padding: 5px;
 	border-radius: 4px;
 }
@@ -53,8 +52,13 @@ nav{
 	float: right;
 	margin-right: 50px;
 }
-
-header>p{
+header{
+	background-image: url(../img/header-background.jpg);
+	background-repeat: no-repeat;
+    background-size: 100% 100%;
+	padding-bottom: 20px;
+}
+header p{
 	width:300px;
 }
 
